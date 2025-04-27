@@ -5,7 +5,7 @@
 
 ## Scope 
 
-* Etch a Sketch uses JavaScript powered by Typerscript to create a grid of squares on the DOM.
+* Etch a Sketch uses JavaScript powered by CSS to create a grid of squares on the DOM.
 
 ## Built with
 
