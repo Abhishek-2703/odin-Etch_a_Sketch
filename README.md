@@ -1,6 +1,6 @@
-# odin-Etch_a_Sketch
+# Etch_a_Sketch
 
-* A simple drawing application which merges Etch and Sketch into one.
+* A simple drawing application which merges 'Etch' and 'Sketch' into one.
 * Live preview: [DEMO](https://abhi-shek2703.github.io/odin-Etch_a_Sketch/).
 
 ## Scope 
